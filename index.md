@@ -2,52 +2,107 @@
 
 **Effective Date: September 16, 2024**
 
-At RideAlerts - YYC, we are committed to protecting the privacy and security of our users. This Privacy Policy explains how we collect, use, and store your personal data when you use our service.
+At **RideAlerts - YYC**, we are committed to protecting the privacy and security of our users. This Privacy Policy explains how we collect, use, and store your personal data when you use our service.
+
+---
 
 ## 1. Information We Collect
 
 We collect the following information from you:
 
-- Your email address, which you provide when you sign up for our service. We use this to identify you and allow you to log in to your account.
-- Route and stop combination subscriptions. When you subscribe to a specific route and stop combination, we store this information so that you can access it later and receive alerts.
+- **Email Address**: Provided during sign-up. Used to identify you and allow login access.
+- **Route and Stop Subscriptions**: We store your selected route and stop combinations to deliver relevant alerts.
+
+---
 
 ## 2. How We Use Your Information
 
-We use your information for the following purposes:
+We use your information to:
 
-- To provide our service to you, including allowing you to log in to your account and access your route and stop combination subscriptions.
-- To send you alerts based on your subscriptions.
-- To improve our service and ensure it is functioning correctly.
+- Provide access to your account and subscriptions.
+- Send alerts based on your selected routes and stops.
+- Improve and ensure proper functioning of our service.
+
+---
 
 ## 3. Data Storage and Security
 
-We store your email address and route/stop combination subscriptions securely. We do not store your password; this is handled by Firebase Authentication, a secure third-party authentication service.
+- Your email and subscription data are stored securely.
+- **Passwords are not stored by us**; authentication is managed by **Firebase Authentication**, a secure third-party service.
+- While we implement reasonable security measures, no method of online transmission or storage is 100% secure.
 
-We take reasonable measures to protect your data from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or method of electronic storage is completely secure, and we cannot guarantee its absolute security.
+---
 
 ## 4. Data Sharing and Disclosure
 
-We do not sell or share your personal data with third parties except as necessary to provide our service to you. For example, we may use third-party services to send you alerts or to store your data. However, these third-party services are carefully vetted and are only permitted to use your data as necessary to provide the required functionality.
+We **do not sell or share** your personal data with third parties, except as necessary to operate the service. When third-party services are used (e.g., for alerts or storage), they are:
+
+- Carefully vetted, and
+- Permitted to use your data only as required for functionality.
+
+---
 
 ## 5. Your Rights
 
 You have the right to:
 
-- Access your personal data that we store.
-- Request that we correct or update your personal data if it is inaccurate.
-- Request that we delete your personal data. If you request deletion, we will comply with your request unless we are required by law to retain some or all of your data.
+- **Access** the personal data we store about you.
+- **Request corrections or updates** to inaccurate information.
+- **Request deletion** of your personal data (unless legal obligations require retention).
 
-To exercise any of these rights, please contact us at lucasferrari4@gmail.com.
+To exercise any of these rights, contact us at: [lucasferrari4@gmail.com](mailto:lucasferrari4@gmail.com)
+
+---
 
 ## 6. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. When we do, we will post the updated policy on our website and update the Effective Date at the top of this page. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your data.
+We may update this policy from time to time. Updates will be:
+
+- Posted on our website.
+- Reflected in the "Effective Date" above.
+
+We encourage periodic review of this policy to stay informed.
+
+---
 
 ## 7. Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our data handling practices, please contact us at lucasferrari4@gmail.com.
+For questions or concerns regarding this Privacy Policy or data practices, contact:
 
-By using our service, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
+**Lucas Ferrari Pereira**  
+📧 [lucasferrari4@gmail.com](mailto:lucasferrari4@gmail.com)
+
+By using our service, you acknowledge that you have read, understood, and agree to this Privacy Policy.
+
+---
+
+## How to Delete Your Account in RideAlerts - YYC
+
+Deleting your RideAlerts - YYC account is simple. Follow the steps below to permanently delete your account and all associated data:
+
+### Step-by-Step Instructions
+
+1. **Open the RideAlerts - YYC App**  
+   Launch the app on your device.
+
+2. **Navigate to the Alerts Page**  
+   Tap on the "Alerts" page.
+
+3. **Access Account Settings**  
+   Tap the RideAlerts - YYC icon at the top right corner.
+
+4. **Initiate Account Deletion**  
+   Select **"Delete Account and All Associated Data"**.
+
+5. **Confirm Deletion**  
+   Confirm your choice when prompted.
+
+### What Happens After Deletion
+
+- Your account and all associated data will be **permanently removed** from our system.
+- You will receive a **confirmation email** once deletion is complete.
+
+---
 
 **RideAlerts - YYC**  
 **Effective Date: September 16, 2024**
